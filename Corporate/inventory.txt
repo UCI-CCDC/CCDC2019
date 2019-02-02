@@ -1,0 +1,34 @@
+rooster0,Windows Server 2012,192.168.220.40
+HTTP,80, 
+FTP,20/21,
+DNS,53,53
+admin1,admin2
+user1,user2
+
+rooster1,Windows Server 2012,192.168.220.40
+HTTP,80, 
+FTP,20/21,
+DNS,53,53
+admin1,admin2
+user1,user2
+
+rooster2,Windows Server 2012,192.168.220.40
+HTTP,80, 
+FTP,20/21,
+DNS,53,53
+admin1,admin2
+user1,user2
+
+rooster3,Windows Server 2012,192.168.220.40
+HTTP,80, 
+FTP,20/21,
+DNS,53,53
+admin1,admin2
+user1,user2
+
+rooster4,Windows Server 2012,192.168.220.40
+HTTP,80, 
+FTP,20/21,
+DNS,53,53
+admin1,admin2
+user1,user2

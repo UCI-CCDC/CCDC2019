@@ -1,0 +1,23 @@
+System: rooster0
+Platform: Windows Server 2012Administrators: admin1,admin2
+Users: user1,user2
+Services: HTTP, FTP, DNS
+
+System: rooster1
+Platform: Windows Server 2012Administrators: admin1,admin2
+Users: user1,user2
+Services: HTTP, FTP, DNS
+
+System: rooster2
+Platform: Windows Server 2012Administrators: admin1,admin2
+Users: user1,user2
+Services: HTTP, FTP, DNS
+
+System: rooster3
+Platform: Windows Server 2012Administrators: admin1,admin2
+Users: user1,user2
+Services: HTTP, FTP, DNS
+
+System: rooster4
+Platform: Windows Server 2012Administrators: admin1,admin2
+Users: user1,user2
