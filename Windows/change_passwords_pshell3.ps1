@@ -1,0 +1,2 @@
+# Change the domain name and domainNameSuffix
+Get-ADUser  –Filter * -SearchBase “OU=Users, DC=domainName, DC=domainNameSuffix” | Set-ADAccountPassword  –Reset  –NewPassword (ConvertTo-SecureString  -AsPlainText  newPassword -Force)
