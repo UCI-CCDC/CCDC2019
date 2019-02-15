@@ -1,0 +1,6 @@
+change_passwords_pshell2.ps1		6889a161d471984a274ac0ff0222fd99
+change_passwords_pshell3.ps1		8ac0ed6b617ae3e1b5dc28199f9b2fa3
+hash_files_pshell2.ps1		699bacbacaf7870efaaddf14b7dab630
+hash_files_pshell3.ps1		aab4f2c268f803922d7e735745c8ef13
+view_running_services_pshell2.ps1	57cb5abc4caa07771b7505b1fc5a8ac6
+view_running_services_pshell3.ps1	2bcf80ce04e20cfce17de42e8aa8b882
