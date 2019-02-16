@@ -1,19 +1,19 @@
-system-name,platform,IPv4
+system-name,platform
 service,tcp,udp
 admin accounts
 user accounts
 
 Examples
-rooster,Windows Server 2012,192.168.220.40
+rooster,Windows Server 2012
 HTTP,80, 
 FTP,20/21,
 DNS,53,53
 admin1,admin2
 user1,user2
 
-Aviator,Windows Vista,192.168.220.103
+Aviator,Windows Vista
 Bogey Camfield,Bunnie McMinn,Chryste Bernot,Ginger Lohering,Jenny Wrathmell,Lebbie Kenny,Matthias Cloney,Nathanael Worlock,Ofilia Niese,Guest
 
-thebridge,Windows Server 2012,192.168,220.44
+thebridge,Windows Server 2012
 IIS,80,
 Administrator
