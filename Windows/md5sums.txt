@@ -4,3 +4,4 @@ hash_files_pshell2.ps1		699bacbacaf7870efaaddf14b7dab630
 hash_files_pshell3.ps1		aab4f2c268f803922d7e735745c8ef13
 view_running_services_pshell2.ps1	57cb5abc4caa07771b7505b1fc5a8ac6
 view_running_services_pshell3.ps1	2bcf80ce04e20cfce17de42e8aa8b882
+firewall.wfw			6fa7b5d15a1680a88eb9166f8a66c8f7
